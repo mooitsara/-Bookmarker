@@ -1,4 +1,4 @@
-# cpe405-assign-firebaseauth
+# bookmarker
 
 > A Vue.js project
 
